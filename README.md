@@ -1,8 +1,9 @@
 # AlphaGooo-java
 
 
- - [IDEA的破解](files/IntelliIDEA的破解.md) - 一些实用的破解方法
+ - [IDEA的破解](files/IDEA的破解.md) - 一些实用的破解方法
  - [IDEA的主题](files/IDEA的主题.md) - 关于 IntelliJ IDEA 的设置技巧，如何更好地设置主题
+ - [IDEA的注释](files/IDEA的注释.md) - 关于 IntelliJ IDEA 的设置技巧，如何更好地设置注释
  - [Java关键字](files/Java的关键字.md) - 一些常用但容易忘记的关键字
  - [Java打印随机数组](files/Java打印随机数组.md) - 关于Java数组的讨论，以及如何打印数组
  - [Java错误收集](files/Java错误收集.md) - 关于一些Java错误，已经相应的解决方案
@@ -18,6 +19,7 @@
  - [Java的单例模式](files/Java的单例模式.md) - 关于Java单例模式的讨论，以及一些高效的应用案例
  - [Java的工厂模式](files/Java的工厂模式.md) - 关于Java工厂模式的讨论，以及一些高效的应用案例
  - [Java获取int数组最后一个元素](files/Java获取int数组最后一个元素.md) - 关于获取 Java int数组的最后一个元素的讨论，以及解决方案
+ - [Java的链表](files/Java的链表.md) - 关于 Java 链表的一些讨论，以及它的实际运用
  
  
  
