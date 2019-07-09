@@ -1,6 +1,6 @@
 ### 关于 IntelliJ IDEA 的设置技巧，如何更好地设置注释
 
- - 打开设置节目
+ - 打开设置界面
  - 选择 Editor
  - 选择 Code Style
  - 选择 Code Generation
